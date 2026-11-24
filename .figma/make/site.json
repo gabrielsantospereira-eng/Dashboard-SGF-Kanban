@@ -1,0 +1,11 @@
+{
+  "title": "Cadastro de Amostra de Concreto",
+  "description": "Streamline concrete sample registration for construction site inspectors with an intuitive mobile interface, ensuring efficient data capture and management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
